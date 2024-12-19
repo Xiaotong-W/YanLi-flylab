@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/publication/journal-article/index.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "_index"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/publication/journal-article/index.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for _index"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/publication/journal-article/index.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from _index"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/publication/journal-article/index.md"
+                "file": "content/_index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of _index"
             }
           }
         ]
@@ -164,18 +164,26 @@
   },
   "active": "4cc9829158d1bad1",
   "lastOpenFiles": [
-    "content/publication/journal-article/index 1.md",
+    "images/tn.png",
+    "images/screenshot.png",
+    "LICENSE.md",
+    "assets/media/welcome.jpg",
+    "assets/media/icon.png",
+    "assets/media/contact.jpg",
+    "assets/media/coders.jpg",
+    "content/post/20-12-01-wowchemy-prize/featured.jpg",
+    "content/event/example/index.md",
+    "content/event/example/featured.jpg",
+    "content/contact/index.md",
+    "content/authors/admin/avatar.jpg",
+    "content/admin/index.md",
+    "content/_index.md",
     "content/publication/journal-article/index.md",
+    "content/publication/journal-article/index 1.md",
     "content/publication/journal-article/featured.jpg",
     "content/publication/conference-paper/featured.jpg",
     "content/publication/conference-paper/conference-paper.pdf",
     "content/people/index.md",
-    "content/event/example/index.md",
-    "README.md",
-    "preview.png",
-    "assets/media/contact.jpg",
-    "assets/media/coders.jpg",
-    "content/admin/index.md",
-    "images/screenshot.png"
+    "README.md"
   ]
 }
