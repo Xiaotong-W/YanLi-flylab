@@ -1,4 +1,4 @@
-·---
+---
 title: "A brain-derived insulin signal encodes protein satiety for nutrient-specific feeding inhibition"
 authors:
   - Xiaoyu Li
