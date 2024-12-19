@@ -71,7 +71,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principle Investigator
+  - Principal Investigators
 ---
 We use Drosophila as animal model to explore the molecular mechanism of brain function, including neural developmental biology, molecular genetics, cognitive behavior of neural circuits etc. We will use the existing behavioral paradigm (eating, sleep and memory) as the basis to study effects of single genes on cell morphology, neural network, and the development of brain function.
 
