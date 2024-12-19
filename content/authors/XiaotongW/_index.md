@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiaotong Wang
+title: Xiaotong Wang | 王筱童
 
 # Full Name (for SEO)
 first_name: Xiaotong
