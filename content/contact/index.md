@@ -8,22 +8,16 @@ sections:
   - block: contact
     content:
       title: Contact
-      text: |-
-            Feel free to contact Li lab members for latest news and informations for our research, collaboration, internship, and everything you want to know! 
+      text: Feel free to contact Li lab members for the latest information about research, collaboration, internship, and everything you want to know! 
       email: liyan@ibp.ac.cn
       phone: 64888533
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+        institute: Institute of Biophysics 
+        street: Datun Road, Chaoyang District
+        city: Beijing
+        postcode: '100101'
+        country: China
+      directions: Enter Building 5 and take the stairs on the right to Office 2209 on Floor 2
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
@@ -40,7 +34,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '1'
 
