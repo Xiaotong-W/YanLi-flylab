@@ -1,28 +1,23 @@
 ---
-title: Example Event
+title: Neuromodulation of Behavior in Drosophila
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: NBD Symposium
 
-location: Wowchemy HQ
+location: Institute of Biophysics
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Datun Rd, Chaoyang District
+  city: Beijing
+  postcode: '100101'
+  country: China
 
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: NBD symposium concentrate on neuromodulation of various of behaviors of Drosophila, including 5 sessions of nutrient sensing & feeding, social behavior, sleep, learning & memory, and sensing & motor control.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-08-02T09:00:00Z'
+date_end: '2023-08-02T17:45:00Z'
 all_day: false
 
-# Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
 
 authors: []
 tags: []
@@ -60,4 +55,3 @@ Slides can be added in a few ways:
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
 
-Further event details, including page elements such as image galleries, can be added to the body of this page.
