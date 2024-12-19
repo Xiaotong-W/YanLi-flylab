@@ -16,6 +16,7 @@ sections:
         <br>
         
         The **YanLi Fly Behavior Group** has been dedicated to advancing fly behavior research in areas such as feeding, circadian rhythms, and the effects of hypomagnetic fields.  
+        
   
   - block: collection
     content:
