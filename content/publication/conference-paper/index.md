@@ -1,5 +1,5 @@
 ---
-title: 'Neurobiology Study of Hypomagnetic Field Effect in _Drosophila_'
+title: 'Neurobiology Study of Hypomagnetic Field Effect in Drosophila'
 
 authors:
   - Xiaotong Wang

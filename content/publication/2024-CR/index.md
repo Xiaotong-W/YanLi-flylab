@@ -10,7 +10,7 @@ authors:
   - Yanbo Chen
   - Yan Zhu
   - Qili Liu
-  - Mark N Wu
+  - Mark N. Wu
   - Yan Li
 
 author_notes:
