@@ -1,5 +1,6 @@
 ---
 title: "A brain-derived insulin signal encodes protein satiety for nutrient-specific feeding inhibition"
+
 authors:
   - Xiaoyu Li
   - Yang Yang
@@ -9,17 +10,17 @@ authors:
   - Yanbo Chen
   - Yan Zhu
   - Qili Liu
-  - Mark N. Wu
+  - Mark N Wu
   - Yan Li
+
 author_notes:
   - "Equal contribution"
   - "Equal contribution"
   - "Equal contribution"
-date: "2024-06-25"
-doi: "10.1016/j.celrep.2024.114282"
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2024-06-25"
+date: '2024-06-25'
+doi: '10.1016/j.celrep.2024.114282'
+
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
