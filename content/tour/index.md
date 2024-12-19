@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Best Space Hypomagnetic Field Lab in China
+        content: 'Our flies are in space!'
         align: right
         background:
           image:
