@@ -19,7 +19,7 @@ date: "2024-06-25"
 doi: "10.1016/j.celrep.2024.114282"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -42,8 +42,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.cell.com/cell-reports/fulltext/S2211-1247(24)00610-7
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://www.cell.com/action/showPdf?pii=S2211-1247%2824%2900610-7
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -73,12 +72,4 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+test test test
