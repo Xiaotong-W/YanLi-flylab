@@ -12,9 +12,9 @@ authors:
   - Mark N. Wu
   - Yan Li
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+  - "Equal contribution"
+  - "Equal contribution"
+  - "Equal contribution"
 date: "2024-06-25"
 doi: "10.1016/j.celrep.2024.114282"
 
