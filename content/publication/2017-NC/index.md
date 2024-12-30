@@ -43,8 +43,8 @@ featured: false
 
 # links:
 # - name: ""
-url: "https://www.nature.com/articles/ncomms14161"
-#url_pdf: ''
+# url: ""
+url_pdf: 'https://www.nature.com/articles/ncomms14161'
 url_dataset: ''
 url_poster: ''
 url_project: ''
