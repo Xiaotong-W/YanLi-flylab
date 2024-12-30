@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: You're welcome to reach out to members of the Li Lab for the latest updates on research, collaboration opportunities, internships, or any questions you may have!
-      email: liyan@ibp.ac.cn
+      email: liyan(AT)ibp.ac.cn
       phone: 64888533
       address:
         institute: Institute of Biophysics 
