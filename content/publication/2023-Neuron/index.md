@@ -17,7 +17,7 @@ authors:
   - Jun Chu
   - Yan Li
   - Yulong Li
-  author_notes:
+author_notes:
   - "Equal contribution, corresponding author"
   - "Equal contribution"
   - ""
