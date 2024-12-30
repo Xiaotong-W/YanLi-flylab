@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
+      - title: 进食控制与进食节律的神经机制
         content: Take a look at what we're working on...
         align: center
         background:
@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+      - title: 学习记忆等高级脑功能的神经机制研究️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
         background:
@@ -28,7 +28,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Best Space Hypomagnetic Field Lab in China
+      - title: 空间亚磁生物学
         content: 'Our flies are in space!'
         align: right
         background:
