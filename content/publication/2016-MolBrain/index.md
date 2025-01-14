@@ -1,5 +1,5 @@
 ---
-title: "Epithelia-derived wingless regulates dendrite directional growth of Drosophila ddaE neuron through the Fz-Fmi-Dsh-Rac1 pathway."
+title: "Epithelia-derived wingless regulates dendrite directional growth of Drosophila ddaE neuron through the Fz-Fmi-Dsh-Rac1 pathway"
 
 authors:
   - Xiaoting Li

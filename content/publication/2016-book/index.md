@@ -1,5 +1,5 @@
 ---
-title: Chapter "Vision, Memory and Cognition in Drosophila" in the book of "Learning and Memory: A Comprehensive Reference, 2nd edition"
+title: "Chapter Vision, Memory and Cognition in Drosophila in the book of Learning and Memory: A Comprehensive Reference, 2nd edition"
 
 authors:
   - Aike Guo

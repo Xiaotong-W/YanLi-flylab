@@ -1,5 +1,5 @@
 ---
-title: "A brain-derived insulin signal encodes protein satiety for nutrient-specific feeding inhibition"
+title: "Gap junction networks in mushroom bodies participate in visual learning and memory in Drosophila"
 
 authors:
   - Qingqing Liu
