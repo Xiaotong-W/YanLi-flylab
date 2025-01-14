@@ -15,7 +15,7 @@ author_notes:
   - "Correspondence"
   - "Correspondence"
 
-date: '2017'
+date: '2017-01-01'
 doi: '10.21769/BioProtoc.2283'
 
 
