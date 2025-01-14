@@ -1,24 +1,30 @@
 ---
-title: "Emergence of intelligence"
+title: "Two Clusters of GABAergic Ellipsoid Body Neurons Modulate Olfactory Labile Memory in Drosophila."
 
 authors:
+  - Zhiping Zhang
+  - Xiaoting Li
+  - Jing Guo
   - Yan Li
-  - Zhiping Zhang.
-
+  - Aike Guo
 author_notes:
-
-date: '2016'
-doi: '??'
+  - ""
+  - ""
+  - ""
+  - "Correspondence"
+  - "Correspondence"
+date: '2013'
+doi: '?'
 
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["review"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Progress in Biochemistry and Biophysics"
-publication_short: "Prog Biochem Biophys"
+publication: "Journal of Neuroscience"
+publication_short: "J Neurosci"
 
 abstract: 
 
@@ -32,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: https://www.cell.com/action/showPdf?pii=S2211-1247%2824%2900610-7
 url_dataset: ''
 url_poster: ''
 url_project: ''

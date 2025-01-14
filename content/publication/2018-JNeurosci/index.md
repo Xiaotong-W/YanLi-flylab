@@ -1,35 +1,35 @@
 ---
 title: "A Presynaptic Function of Shank Protein in Drosophila."
 authors:
-- Song Wu
-- Guangming Gan
-- Zhiping Zhang
-- Jie Sun
-- Qifu Wang
-- Zhongbao Gao
-- Meixiang Li
-- Shan Jin
-- Juan Huang
-- Ulrich Thomas
-- Yong-Hui Jiang
-- Yan Li
-- Rui Tian
-- Yong Q Zhang
+  - Song Wu
+  - Guangming Gan
+  - Zhiping Zhang
+  - Jie Sun
+  - Qifu Wang
+  - Zhongbao Gao
+  - Meixiang Li
+  - Shan Jin
+  - Juan Huang
+  - Ulrich Thomas
+  - Yong-Hui Jiang
+  - Yan Li
+  - Rui Tian
+  - Yong Q Zhang
 author_notes:
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- "Corresponding author"
-- "Corresponding author"
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - "Corresponding author"
+  - "Corresponding author"
 date: "2017-11-29"
 doi: "10.1523/JNEUROSCI.2276-17.2017"
 

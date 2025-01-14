@@ -1,24 +1,28 @@
 ---
-title: "Emergence of intelligence"
+title: "Aging accelerates memory extinction and impairs memory restoration in Drosophila"
 
 authors:
+  - Nannan Chen
+  - Aike Guo
   - Yan Li
-  - Zhiping Zhang.
 
 author_notes:
+  - ""
+  - "Correspondence"
+  - "Correspondence"
 
-date: '2016'
-doi: '??'
+date: '215'
+doi: '?'
 
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["review"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Progress in Biochemistry and Biophysics"
-publication_short: "Prog Biochem Biophys"
+publication: "Biochemical and Biophysical Research Communications"
+publication_short: "Biochem Biophys Res Commun"
 
 abstract: 
 
@@ -32,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: https://www.cell.com/action/showPdf?pii=S2211-1247%2824%2900610-7
 url_dataset: ''
 url_poster: ''
 url_project: ''
